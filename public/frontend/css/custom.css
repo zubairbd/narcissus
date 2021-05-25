@@ -1,0 +1,25 @@
+.nar-logo{
+    width: 70px;
+    height: 60px;
+}
+#header .header-inner #logo a, #header .header-inner #logo a span, #header #header-wrap #logo a, #header #header-wrap #logo a span {
+    font-family: poppins,sans-serif;
+    font-size: 40px;
+    color: #262262;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+}
+
+.wc {
+    display: inline-block;
+    text-align: center;
+    padding: 0 218px 10px;
+    background: linear-gradient(90deg, transparent 25%, #262262 25%, lightseagreen 75%, transparent 75%);
+    background-size: 100% 5px;
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+}
+.p-t-100-p-b-0 {
+    padding-top: 100px !important;
+    padding-bottom: 0;
+}
